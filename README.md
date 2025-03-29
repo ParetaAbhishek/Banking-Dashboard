@@ -1,0 +1,8 @@
+- **Problem Statement:** Understanding risk analytics in banking to minimize financial losses while lending to customers.  
+- **Solution:** Power BI dashboards help assess applicant profiles to determine loan approval based on repayment likelihood.  
+- **Dataset Overview:** Contains banking details, client information, and multiple interlinked tables using primary and foreign keys.  
+- **Data Cleaning:** Added an **Engagement Timeframe** column in the Client-Banking table to analyze client tenure in banks.  
+- **Excel Usage:** Performed data cleaning, added conditional columns, and prepared structured data for analysis.  
+- **SQL Integration:** Ensured accurate, real-time reporting from multiple banking data sources for reliable decision-making.  
+- **Power BI Dashboard:** Developed interactive visuals using **charts, KPI cards, slicers, and navigation buttons**.  
+- **DAX & Measures:** Implemented calculations and custom metrics to enhance financial insights and risk assessment.  
